@@ -1,8 +1,5 @@
-# Monte-Carlo-Simulation-Applications
+# Monte-Carlo-Simulation-Applications : Mathematical Foundations and Numerical Applications in Finance, Architecture and Engineering
 Monte Carlo simulation exploring probability theory, stochastic interest rate modeling, light transport, and structural reliability through numerical methods.
-# Monte Carlo Simulation: Theory and Applications
-
-### Mathematical Foundations and Numerical Applications in Finance, Architecture and Engineering
 
 ## Overview
 
